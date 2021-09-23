@@ -24,5 +24,8 @@ Route.get('/', async () => {
   return { hello: 'world' }
 })
 
-Route.get('/users', "UsersController.index");
-Route.post('/users', "UsersController.create");
+Route.group(() => {
+  Route.get('/users', "UsersController.index");
+  Route.post('/users', "UsersController.create");    
+}).prefix('/api')
+

@@ -39,7 +39,7 @@ yarn
 yarn start
 ```
 
-> Access http://localhost:3333/users to see the API
+> Access http://localhost:3333/api/users to see the API
 
 ## License
 
