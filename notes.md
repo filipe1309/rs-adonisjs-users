@@ -8,4 +8,8 @@
 ```sh
 yarn create adonis-ts-app
 node ace serve --watch
+node ace make:controller User
+
+npm i @adonisjs/lucid
+
 ```
