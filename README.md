@@ -8,7 +8,7 @@
 
 ## 💬 About
 
-This project was developed following RocketSeat Youtube "[Adonis 5 - criando uma API com a versão oficial - Code/Drops #71
+This project was developed following RocketSeat Youtube's "[Adonis 5 - criando uma API com a versão oficial - Code/Drops #71
 ](https://www.youtube.com/watch?v=uVR8lTlBoag&ab_channel=Rocketseat)" video.
 
 ## :computer: Technologies
@@ -25,6 +25,12 @@ git clone git@github.com:filipe1309/rs-adonisjs-users.git
 
 ```sh
 cd rs-adonisjs-users
+```
+
+Install dependencies:
+
+```sh
+yarn
 ```
 
 ## :runner: Running
